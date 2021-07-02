@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/danish.com/static/css/main.468b7472.chunk.css",
+    "main.js": "/danish.com/static/js/main.02986d83.chunk.js",
+    "main.js.map": "/danish.com/static/js/main.02986d83.chunk.js.map",
+    "runtime-main.js": "/danish.com/static/js/runtime-main.a1d6aa4a.js",
+    "runtime-main.js.map": "/danish.com/static/js/runtime-main.a1d6aa4a.js.map",
+    "static/css/2.74c02967.chunk.css": "/danish.com/static/css/2.74c02967.chunk.css",
+    "static/js/2.c14e05d6.chunk.js": "/danish.com/static/js/2.c14e05d6.chunk.js",
+    "static/js/2.c14e05d6.chunk.js.map": "/danish.com/static/js/2.c14e05d6.chunk.js.map",
+    "index.html": "/danish.com/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/danish.com/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.468b7472.chunk.css.map": "/danish.com/static/css/main.468b7472.chunk.css.map",
+    "static/js/2.c14e05d6.chunk.js.LICENSE.txt": "/danish.com/static/js/2.c14e05d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1d6aa4a.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.c14e05d6.chunk.js",
+    "static/css/main.468b7472.chunk.css",
+    "static/js/main.02986d83.chunk.js"
+  ]
+}
